@@ -1,0 +1,18 @@
+*/migrations
+*/__pycache__
+*.pyc
+
+# System Files
+.DS_Store
+Thumbs.db
+db.sqlite3
+Pipfile.lock
+
+# environment
+.env/
+env/
+
+
+# pycharm
+.idea/
+
